@@ -1,1 +1,4 @@
 hoge
+love
+good
+ok
